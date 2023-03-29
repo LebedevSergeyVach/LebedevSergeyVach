@@ -9,7 +9,7 @@
     <a href="https://windows.org/">
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     </a>
-     <a href="https://python.org/">
+    <a href="https://python.org/">
         <img src="https://img.shields.io/badge/Python-379432?style=for-the-badge&logo=python&logoColor=white" />
     </a>
 </details>
