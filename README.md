@@ -9,6 +9,9 @@
     <a href="https://windows.org/">
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     </a>
+    <a href="https://go.dev/">
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+    </a>
     <a href="https://python.org/">
         <img src="https://img.shields.io/badge/-Python-111?style=for-the-badge&logo=Python&logoColor=blue" />
     </a>
