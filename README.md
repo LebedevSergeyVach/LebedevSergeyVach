@@ -6,7 +6,7 @@
     <a href="https://manjaro.org/">
         <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
     </a>
-    <a href="https://windows.org/">
+    <a href="https://www.microsoft.com">
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     </a>
     <a href="https://python.org/">
