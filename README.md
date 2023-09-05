@@ -12,7 +12,6 @@
     <a href="https://python.org/">
         <img src="https://img.shields.io/badge/-Python-111?style=for-the-badge&logo=Python&logoColor=blue" />
     </a>
-    <p></p>
     <a href="https://www.djangoproject.com">
         <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
     </a>
