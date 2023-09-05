@@ -10,7 +10,13 @@
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     </a>
     <a href="https://python.org/">
-        <img src="https://img.shields.io/badge/-Python-111?style=for-the-badge&logo=Python&logoColor=blue" />
+        <img src="https://img.shields.io/badge/-Python-111?style=for-the-badge&logo=Python&logoColor=0022ab" />
+    </a>
+    <a href="https://www.djangoproject.com">
+        <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"
+    </a>
+    <a href="https://getbootstrap.com">
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
     </a>
 </details>
 
