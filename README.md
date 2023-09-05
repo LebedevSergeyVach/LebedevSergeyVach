@@ -29,6 +29,6 @@
         <img src="https://img.shields.io/badge/ВКонтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" />
     </a>
     <a href="https://discordapp.com/users/784611652577263636">
-        <img src="https://img.shields.io/badge/-Discord-747EF7?style=flat&logo=Discord&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Discord-747EF7?style=for-the-badge&logo=Discord&logoColor=white" />
     </a>
 </details>
