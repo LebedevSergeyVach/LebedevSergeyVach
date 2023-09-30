@@ -1,7 +1,5 @@
 [![GitHub stats](https://github-readme-stats-kirillmerz.vercel.app/api?theme=tokyonight&username=LebedevSergeyV&show_icons=true&count_private=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Most used languages](https://github-readme-stats-kirillmerz.vercel.app/api/top-langs/?theme=tokyonight&username=LebedevSergeyV&hide_progress=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LebedevSergeyV&hide_progress=true&langs_count=8)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 <details open="open">
     <summary><h2>💻 My Skills</h2></summary>
