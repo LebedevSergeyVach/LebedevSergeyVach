@@ -25,7 +25,7 @@
 
 <details open="open">
     <summary><h2>🌍 Contact Me</h2></summary>
-    <a href="https://t.me/PIIZDEEC">
+    <a href="https://t.me/LebedevSergeyVach">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
     </a>
     <a href="https://vk.com/p1zdeeeec">
