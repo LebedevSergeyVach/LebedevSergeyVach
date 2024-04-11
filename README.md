@@ -18,6 +18,12 @@
     <a href="https://getbootstrap.com">
         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     </a>
+    <a href="https://java.com">
+        <img src="https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=Java&logoColor=white"/>
+    </a>
+    <a href="https://www.android.com/">
+        <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white" />
+    </a>
 </details>
 
 <details open="open">
