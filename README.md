@@ -3,11 +3,11 @@
 
 <details open="open">
     <summary><h2>💻 My Skills</h2></summary>
-    <a href="https://manjaro.org/">
-        <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
-    </a>
     <a href="https://www.microsoft.com">
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    </a>
+    <a href="https://manjaro.org/">
+        <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
     </a>
     <a href="https://python.org/">
         <img src="https://img.shields.io/badge/-Python-111?style=for-the-badge&logo=Python&logoColor=blue" />
@@ -19,7 +19,7 @@
         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     </a>
     <a href="https://java.com">
-        <img src="https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=Java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Java-ED760E?style=for-the-badge&logo=Java&logoColor=white"/>
     </a>
     <a href="https://www.android.com/">
         <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white" />
