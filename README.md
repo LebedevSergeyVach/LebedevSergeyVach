@@ -1,5 +1,5 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?theme=tokyonight&username=LebedevSergeyVach&show_icons=true&count_private=true&hide_&title_color=660099&text_color=007FFF&icon_color=660099&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?theme=tokyonight&username=LebedevSergeyVach&layout=donut&title_color=660099&text_color=007FFF&icon_color=660099&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?theme=tokyonight&username=LebedevSergeyVach&show_icons=true&count_private=true&hide_&title_color=8A2BE2&text_color=007FFF&icon_color=8A2BE2&bg_color=00000000)](https://github.com/LebedevSergeyVach)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?theme=tokyonight&username=LebedevSergeyVach&layout=donut&title&title=true_color=8A2BE2&text_color=007FFF&icon_color=8A2BE2&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <details open="open">
