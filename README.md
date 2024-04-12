@@ -1,4 +1,4 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?theme=tokyonight&username=LebedevSergeyVach&show_icons=true&count_private=true&hide_title=true_title_color=00FF00)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?theme=tokyonight&username=LebedevSergeyVach&show_icons=true&count_private=true&hide_title=true_title_color=0000FF_text_color=0000FF_icon_color=0000FF)](https://github.com/anuraghazra/github-readme-stats)
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?theme=tokyonight&username=LebedevSergeyVach&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LebedevSergeyVach&show_icons=true&bg_color=000000_title_color=00FF00)
