@@ -114,9 +114,3 @@
             <img width="5" />
     </div>
 </details>
-
-<p align="left">
-  <img width="820" height="220" src="https://streak-stats.demolab.com?user=LebedevSergeyVach&theme=tokyonight&hide_border=false&border_radius=5&order=3&card_width=800" alt="streak graph" >
-</p>
-
-
