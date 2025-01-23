@@ -12,15 +12,6 @@
     <a href="https://manjaro.org/">
         <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
     </a>
-    <a href="https://python.org/">
-        <img src="https://img.shields.io/badge/-Python-111?style=for-the-badge&logo=Python&logoColor=blue" />
-    </a>
-    <a href="https://www.djangoproject.com">
-        <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-    </a>
-    <a href="https://getbootstrap.com">
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    </a>
     <a href="https://kotlinlang.org/">
         <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
     </a>
@@ -29,6 +20,15 @@
     </a>
     <a href="https://www.android.com/">
         <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white" />
+    </a>
+    <a href="https://python.org/">
+        <img src="https://img.shields.io/badge/-Python-111?style=for-the-badge&logo=Python&logoColor=blue" />
+    </a>
+    <a href="https://www.djangoproject.com">
+        <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+    </a>
+    <a href="https://getbootstrap.com">
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     </a>
 </details>
 
