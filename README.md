@@ -76,7 +76,7 @@
     </div>
         <img height="5" />
     <div align="left">
-        <strong>Framework: </strong>
+        <strong>Framework/library: </strong>
             <img width="12" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
             <img width="12" />
