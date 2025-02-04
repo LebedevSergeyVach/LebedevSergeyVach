@@ -82,6 +82,18 @@
             <img width="12" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
             <img width="12" />
+            <img src="https://uploads-ssl.webflow.com/60996f3af06ca2ff488a7bfb/60a269bf446a85794a4d3b6b_Retrofit.jpg" height="40" alt="Retrofit logo"  />
+            <img width="12" />
+            <img src="https://static.cdnlogo.com/logos/r/27/reactivex.svg" height="40" alt="RxJava logo"  />
+            <img width="12" />
+            <img src="https://s3.amazonaws.com/playstore/images/60bb08c2fc6d0bddb91e0e3553dcdb48" height="40" alt="Glide logo"  />
+            <img width="12" />
+            <img src="https://raw.githubusercontent.com/Faltenreich/SkeletonLayout/refs/heads/develop/images/android.png" height="40" alt="SkeletonLayout logo"  />
+            <img width="12" />
+            <img src="https://services.google.com/fh/files/emails/android_dev_newsletter_feb_image3.png" height="40" alt="	AndroidX Jetpack logo"  />
+            <img width="12" />
+            <img src="https://play-lh.googleusercontent.com/znREMBB1Oc7taxdlDElvWhLD1KSHhEwD5c6KM7bg0Xlu0p8Yad1h38RFMHM8zsANMEk" height="40" alt="LibGDX logo"  />
+            <img width="12" />
     </div>
         <img height="5" />
     <div align="left">
