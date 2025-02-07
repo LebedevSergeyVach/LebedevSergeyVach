@@ -45,87 +45,45 @@
     </a>
 </details>
 
-<details close="close">
+<details open="open">
     <summary><h2>🚀 Full stack of technologies</h2></summary>
     <div align="left">
         <strong>Operating system: </strong>
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="40" alt="windows 11 logo"  />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" height="40" alt="android logo"  />
-            <img width="12" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="47" alt="windows 11 logo" hspace="3" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="45" alt="debian logo" hspace="3" />
     </div>
         <img height="5" />
     <div align="left">
         <strong>Program languages: </strong>
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/poetry/poetry-original.svg" height="40" alt="poetry logo" />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo" />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-            <img width="12" />
+            <img src="https://skillicons.dev/icons?i=kotlin,java,gradle,c,python&perline=10" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/poetry/poetry-original.svg" height="47" alt="poetry logo" />
     </div>
         <img height="5" />
     <div align="left">
         <strong>Framework/library: </strong>
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-            <img width="12" />
-            <img src="https://uploads-ssl.webflow.com/60996f3af06ca2ff488a7bfb/60a269bf446a85794a4d3b6b_Retrofit.jpg" height="40" alt="Retrofit logo"  />
-            <img width="12" />
-            <img src="https://static.cdnlogo.com/logos/r/27/reactivex.svg" height="40" alt="RxJava logo"  />
-            <img width="12" />
-            <img src="https://s3.amazonaws.com/playstore/images/60bb08c2fc6d0bddb91e0e3553dcdb48" height="40" alt="Glide logo"  />
-            <img width="12" />
-            <img src="https://raw.githubusercontent.com/Faltenreich/SkeletonLayout/refs/heads/develop/images/android.png" height="40" alt="SkeletonLayout logo"  />
-            <img width="12" />
-            <img src="https://services.google.com/fh/files/emails/android_dev_newsletter_feb_image3.png" height="40" alt="	AndroidX Jetpack logo"  />
-            <img width="12" />
-            <img src="https://play-lh.googleusercontent.com/znREMBB1Oc7taxdlDElvWhLD1KSHhEwD5c6KM7bg0Xlu0p8Yad1h38RFMHM8zsANMEk" height="40" alt="LibGDX logo"  />
-            <img width="12" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="47" alt="django logo" hspace="3" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="47" alt="bootstrap logo" hspace="3" />
+            <img src="https://uploads-ssl.webflow.com/60996f3af06ca2ff488a7bfb/60a269bf446a85794a4d3b6b_Retrofit.jpg" height="47" alt="Retrofit logo" hspace="3" />
+            <img src="https://static.cdnlogo.com/logos/r/27/reactivex.svg" height="47" alt="RxJava logo" hspace="3" />
+            <img src="https://s3.amazonaws.com/playstore/images/60bb08c2fc6d0bddb91e0e3553dcdb48" height="47" alt="Glide logo" hspace="3" />
+            <img src="https://raw.githubusercontent.com/Faltenreich/SkeletonLayout/refs/heads/develop/images/android.png" height="47" alt="SkeletonLayout logo" hspace="3" />
+            <img src="https://services.google.com/fh/files/emails/android_dev_newsletter_feb_image3.png" height="47" alt="	AndroidX Jetpack logo" hspace="3" />
+            <img src="https://play-lh.googleusercontent.com/znREMBB1Oc7taxdlDElvWhLD1KSHhEwD5c6KM7bg0Xlu0p8Yad1h38RFMHM8zsANMEk" height="47" alt="LibGDX logo" hspace="3" />
     </div>
         <img height="5" />
     <div align="left">
         <strong>Version control system: </strong>
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo"  />
-            <img width="12" />
+            <img src="https://skillicons.dev/icons?i=git,github&perline=10" />
     </div>
         <img height="5" />
     <div align="left">
         <strong>IDE : </strong>
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij idea logo"  />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="android studio logo"  />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-            <img width="12" />
+            <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,figma&perline=10" />
     </div>
         <img height="5" />
     <div align="left">
         <strong>Terminal: </strong>
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" height="40" alt="ssh logo"  />
-            <img width="5" />
+            <img src="https://skillicons.dev/icons?i=bash&perline=10" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" height="47" alt="ssh logo"  />
     </div>
 </details>
