@@ -45,45 +45,42 @@
     </a>
 </details>
 
-<details open="open">
+<details close="close">
     <summary><h2>🚀 Full stack of technologies</h2></summary>
     <div align="left">
         <strong>Operating system: </strong>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="47" alt="windows 11 logo" hspace="3" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="45" alt="debian logo" hspace="3" />
+            <img src="https://skillicons.dev/icons?i=windows,debian&perline=10" />
     </div>
-        <img height="5" />
+        <img vspace="1" />
     <div align="left">
         <strong>Program languages: </strong>
             <img src="https://skillicons.dev/icons?i=kotlin,java,gradle,c,python&perline=10" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/poetry/poetry-original.svg" height="47" alt="poetry logo" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/poetry/poetry-original.svg" height="46" alt="poetry logo" />
     </div>
-        <img height="5" />
+        <img vspace="1" />
     <div align="left">
         <strong>Framework/library: </strong>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="47" alt="django logo" hspace="3" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="47" alt="bootstrap logo" hspace="3" />
-            <img src="https://uploads-ssl.webflow.com/60996f3af06ca2ff488a7bfb/60a269bf446a85794a4d3b6b_Retrofit.jpg" height="47" alt="Retrofit logo" hspace="3" />
-            <img src="https://static.cdnlogo.com/logos/r/27/reactivex.svg" height="47" alt="RxJava logo" hspace="3" />
-            <img src="https://s3.amazonaws.com/playstore/images/60bb08c2fc6d0bddb91e0e3553dcdb48" height="47" alt="Glide logo" hspace="3" />
-            <img src="https://raw.githubusercontent.com/Faltenreich/SkeletonLayout/refs/heads/develop/images/android.png" height="47" alt="SkeletonLayout logo" hspace="3" />
-            <img src="https://services.google.com/fh/files/emails/android_dev_newsletter_feb_image3.png" height="47" alt="	AndroidX Jetpack logo" hspace="3" />
-            <img src="https://play-lh.googleusercontent.com/znREMBB1Oc7taxdlDElvWhLD1KSHhEwD5c6KM7bg0Xlu0p8Yad1h38RFMHM8zsANMEk" height="47" alt="LibGDX logo" hspace="3" />
+            <img src="https://skillicons.dev/icons?i=django,bootstrap,rxjava&perline=10" />
+            <img src="https://uploads-ssl.webflow.com/60996f3af06ca2ff488a7bfb/60a269bf446a85794a4d3b6b_Retrofit.jpg" height="45" alt="Retrofit logo" hspace="2" />
+            <img src="https://s3.amazonaws.com/playstore/images/60bb08c2fc6d0bddb91e0e3553dcdb48" height="52" alt="Glide logo" />
+            <img src="https://play-lh.googleusercontent.com/znREMBB1Oc7taxdlDElvWhLD1KSHhEwD5c6KM7bg0Xlu0p8Yad1h38RFMHM8zsANMEk" height="45" alt="LibGDX logo" hspace="2" />
+            <img src="https://raw.githubusercontent.com/Faltenreich/SkeletonLayout/refs/heads/develop/images/android.png" height="46" alt="SkeletonLayout logo" hspace="2" />
+            <img src="https://services.google.com/fh/files/emails/android_dev_newsletter_feb_image3.png" height="46" alt="AndroidX Jetpack logo" hspace="2" />
     </div>
-        <img height="5" />
+        <img vspace="1" />
     <div align="left">
         <strong>Version control system: </strong>
             <img src="https://skillicons.dev/icons?i=git,github&perline=10" />
     </div>
-        <img height="5" />
+        <img vspace="1" />
     <div align="left">
         <strong>IDE : </strong>
             <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,figma&perline=10" />
     </div>
-        <img height="5" />
+        <img vspace="1" />
     <div align="left">
         <strong>Terminal: </strong>
             <img src="https://skillicons.dev/icons?i=bash&perline=10" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" height="47" alt="ssh logo"  />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" height="46" alt="ssh logo"  />
     </div>
 </details>
