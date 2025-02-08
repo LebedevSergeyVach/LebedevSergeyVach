@@ -19,7 +19,8 @@
         <img src="https://img.shields.io/badge/-Java-ED760E?style=for-the-badge&logo=Java&logoColor=white"/>
     </a>
     <a href="https://www.android.com/">
-        <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge
+&logo=Android&logoColor=white" />
     </a>
     <a href="https://python.org/">
         <img src="https://img.shields.io/badge/-Python-111?style=for-the-badge&logo=Python&logoColor=blue" />
@@ -75,7 +76,7 @@
         <img vspace="1" />
     <div align="left">
         <strong>IDE : </strong>
-            <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,figma&perline=10" />
+            <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,figma,postman&perline=10" />
     </div>
         <img vspace="1" />
     <div align="left">
