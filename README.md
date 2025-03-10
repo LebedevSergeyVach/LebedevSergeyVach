@@ -5,10 +5,10 @@
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?theme=tokyonight&username=LebedevSergeyVach&layout=donut&title&hide_title=true&color=8A2BE2&text_color=007FFF&icon_color=8A2BE2&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 <details open="open">
-    <summary><h2>⭐ My favorite project</h2></summary>
+    <summary><h2>⭐ My Favorite Projects</h2></summary>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LebedevSergeyVach&repo=EltexSocialMedia&title_color=8A2BE2&text_color=007FFF&icon_color=8A2BE2&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LebedevSergeyVach&repo=SerphantomApplication&title_color=8A2BE2&text_color=007FFF&icon_color=8A2BE2&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LebedevSergeyVach&repo=EltexSocialMedia&title_color=8A2BE2&text_color=007FFF&icon_color=8A2BE2&bg_color=00000000)](https://github.com/LebedevSergeyVach/EltexSocialMedia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LebedevSergeyVach&repo=SerphantomApplication&title_color=8A2BE2&text_color=007FFF&icon_color=8A2BE2&bg_color=00000000)](https://github.com/LebedevSergeyVach/SerphantomApplication)
 </details>
 
 <details open="open">
@@ -50,7 +50,7 @@
 </details>
 
 <details close="close">
-    <summary><h2>🚀 Full stack of technologies</h2></summary>
+    <summary><h2>🚀 Full Stack of Technologies</h2></summary>
     <div align="left">
         <strong>Operating system: </strong>
             <img src="https://skillicons.dev/icons?i=windows,debian&perline=10" />
