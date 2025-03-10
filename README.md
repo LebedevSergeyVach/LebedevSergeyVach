@@ -1,8 +1,15 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/LebedevSergeyVach" target="_blank">Lebedev Sergey</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?theme=tokyonight&username=LebedevSergeyVach&show_icons=true&count_private=true&hide_&title_color=8A2BE2&text_color=007FFF&icon_color=8A2BE2&bg_color=00000000)](https://github.com/LebedevSergeyVach)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?theme=tokyonight&username=LebedevSergeyVach&show_icons=true&count_private=true&&title_color=8A2BE2&text_color=007FFF&icon_color=8A2BE2&bg_color=00000000)](https://github.com/LebedevSergeyVach)
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?theme=tokyonight&username=LebedevSergeyVach&layout=donut&title&hide_title=true&color=8A2BE2&text_color=007FFF&icon_color=8A2BE2&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+
+<details open="open">
+    <summary><h2>⭐ My favorite project</h2></summary>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LebedevSergeyVach&repo=EltexSocialMedia&title_color=8A2BE2&text_color=007FFF&icon_color=8A2BE2&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LebedevSergeyVach&repo=SerphantomApplication&title_color=8A2BE2&text_color=007FFF&icon_color=8A2BE2&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
 <details open="open">
     <summary><h2>💻 My Skills</h2></summary>
